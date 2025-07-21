@@ -1,9 +1,29 @@
+
+
 body{
     background-color: black;
 }
-h1{
-    font-family:Libre Baskerville, serif ;
-    text-transform: uppercase;
+
+#first{
+    color: white;
     text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.poster{
+    height: 300px;
+    width: 600px;
+    margin-left: 25%;
+  
+    border:  5px solid white;
+    margin-top: 25px;
     
+}
+
+#third{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    
+
 }
